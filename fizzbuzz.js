@@ -14,7 +14,10 @@ function fizzBuzz() {
     } else {
       putput.push(count);
     }
-    
+   
+  count++;
+   
   }
-  
+ 
+  console.log(output);
 }
